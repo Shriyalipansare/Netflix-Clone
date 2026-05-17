@@ -1,4 +1,4 @@
-#﻿# Netflix Project
+## Netflix Project
 # Netflix Clone
 
 A responsive Netflix Clone web application built using HTML, CSS, and JavaScript.  
@@ -21,11 +21,4 @@ This project replicates the UI and basic functionality of the Netflix homepage.
 
 ## Project Screenshots
 
-(Add your project screenshots here)
 
-## How to Run the Project
-
-1. Clone the repository
-
-```bash
-git clone <your-github-repo-link>
